@@ -3,15 +3,6 @@
 
 This project is a single-page promotional website for the popular mobile game *Clash Royale*. It features a sleek design with social media integration, download links, and themed content to engage fans and provide an easy way to download and learn about the game.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
-
 ## Features
 
 - **Responsive Navigation Bar**: A navigation menu with links to sections like Home, About, Careers, and Contact.
